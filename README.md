@@ -8,6 +8,14 @@
 
 - 📫 How to reach me: helgi203(at)gmail.com
 
+---
+    | Python | JavaScript | C# | C++ | Java |
+---
+    | Django | React, React-Native | ElectronJS | BootStrap |
+    | NodeJS |
+---
+    | HTML, CSS3, SCSS | Unity3D | Git | Linux |
+
 <!--
 **HelgiSteinarr/HelgiSteinarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
