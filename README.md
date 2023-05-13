@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact: Although my main focus for the last ~5years has been computer science related, my main hobby is getting my hands dirty working on cars and also scuba diving!
 
-- 📫 How to reach me: helgi203(at)gmail.com
+- 📫 Say hi!: hi(att)helgisteinarr.com
 
 ---
     | Python | JavaScript | C# | C++ | Java |
