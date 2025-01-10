@@ -1,13 +1,20 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning CS @ Reykjavík University.
-- 🔭 I’m currently experimenting with integrating a modern JavaScript pipeline into a Django application to increase my knowledge of modern webapps.
-- 💬 Ask me about anything tech related!
+📫 Say hi!: hi(att)helgisteinarr.com
 
-- ⚡ Fun fact: Although my main focus for the last ~5years has been computer science related, my main hobby is getting my hands dirty working on cars and also scuba diving!
+<a href="https://hi.its.me">
+  https://hi.its.me
+</a>
+<br>
+<a href="https://filedrop.is">
+  https://filedrop.is
+</a>
+<br>
+<a href="https://fisedush.com">
+  https://fisedush.com
+</a>
 
-- 📫 Say hi!: hi(att)helgisteinarr.com
-
+<h5>Other accounts</h5>
 <a href="https://gitlab.com/helgi21">
   <img alt="helgi21 | Gitlab" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" />
     helgi21
@@ -18,6 +25,15 @@
   <img alt="helgi21 | GitHub" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 helgi21
 </a>
+
+<!--
+- 🌱 I’m currently learning CS @ Reykjavík University.
+- 🔭 I’m currently experimenting with integrating a modern JavaScript pipeline into a Django application to increase my knowledge of modern webapps.
+- 💬 Ask me about anything tech related!
+
+- ⚡ Fun fact: Although my main focus for the last ~5years has been computer science related, my main hobby is getting my hands dirty working on cars and also scuba diving!
+
+
 
 
 <br/><br/>
@@ -50,7 +66,7 @@ helgi21
 
 <img alt="Markdown" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 
-
+-->
 
 <!--
 **HelgiSteinarr/HelgiSteinarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
