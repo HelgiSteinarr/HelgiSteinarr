@@ -13,6 +13,10 @@
 <a href="https://fisedush.com">
   https://fisedush.com
 </a>
+<br>
+<a href="https://helgist.itch.io">
+  https://helgist.itch.io
+</a>
 
 <h5>Other accounts</h5>
 <a href="https://gitlab.com/helgi21">
