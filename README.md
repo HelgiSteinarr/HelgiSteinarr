@@ -29,6 +29,12 @@
   <img alt="helgi21 | GitHub" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 helgi21
 </a>
+<br>
+<br>
+<a href="https://github.com/HelgiSteinarr-mila">
+  <img alt="HelgiSteinarr-mila | GitHub" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+helgisteinarr-mila
+</a>
 
 <!--
 - 🌱 I’m currently learning CS @ Reykjavík University.
